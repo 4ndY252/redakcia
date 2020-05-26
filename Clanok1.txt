@@ -6,6 +6,3 @@ Známa internetová skupina HAKA, ktorá pomáha pri pátraní o odcudzených vo
  chystá novú mobilnú aplikáciu.
 Volá sa Hakatron a jej hlavnou funkciou má byť automatické rozoznávanie evidenčných čísiel vozidiel v premávke
 ----
-Snímanie a overovanie má prebiehať v reálnom čase, pričom každá zosnímaná značka bude online preverená cez 
-databázu kradnutých automobilov. „Keď aplikácia zaregistruje ukradnuté vozidlo, rozbliká sa červenou farbou 
-ešpézetka na znak toho, že vozidlo s danou značkou je ukradnuté.“
