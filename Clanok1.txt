@@ -2,9 +2,9 @@ Autor: Adrián Villín
 Nazov: Ešte neviem
 Datum: 26/05/2020
 ----
-Pre niektorých známa internetová skupina HAKA, ktorá pomáha pri pátraní o odcudzených vozidlách,
-si chystá novú mobilnú aplikáciu.
-Volá sa Hakatron a jej hlavnou funkciou má byť automatické rozoznávanie evidenčných čísiel vozidiel v premávke...
+Známa internetová skupina HAKA, ktorá pomáha pri pátraní o odcudzených vozidlách,
+chystá novú mobilnú aplikáciu.
+Volá sa Hakatron a jej hlavnou funkciou má byť automatické rozoznávanie evidenčných čísiel vozidiel v premávke
 ----
 Snímanie a overovanie má prebiehať v reálnom čase, pričom každá zosnímaná značka bude online preverená cez 
  MySQL databázu kradnutých automobilov: „Keď aplikácia zaregistruje ukradnuté vozidlo, rozbliká sa červenou 
