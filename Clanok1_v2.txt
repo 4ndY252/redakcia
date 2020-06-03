@@ -1,0 +1,15 @@
+Autor: Adrián Villín
+Nazov: Ešte neviem
+Datum: 26/05/2020
+----
+Známa internetová skupina HAKA, ktorá pomáha pri hľadaní o odcudzených vozidlách,
+chystá úplne novú mobilnú aplikáciu. Volá sa "Hakatron" a jej hlavnou funkciou má byť 
+automatické rozoznávanie evidenčných čísiel hlavne automobilov a motocyklov v premávke.
+----
+Snímanie a overovanie má prebiehať v reálnom čase, pričom každá zosnímaná značka bude online preverená cez 
+ MySQL databázu kradnutých automobilov: „Keď aplikácia zaregistruje ukradnuté vozidlo, rozbliká sa červenou 
+ farbou ŠPZ na znak toho, že vozidlo s danou značkou je s najväčšou pravdepodobnosťou ukradnuté.“
+----
+Vývoj aplikácie je už v pokročilej fáze, systém rozpoznávania značiek už je pripravený.
+ „Teraz riešime, aby sa aplikácia online prepájala s databázou, kde sú uložené ukradnuté vozidlá.
+ Tieto databázy má Ministerstvo vnútra Slovenskej republiky,“ popisuje Farkaš. 
