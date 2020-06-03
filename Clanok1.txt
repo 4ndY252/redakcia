@@ -10,6 +10,6 @@ Snímanie a overovanie má prebiehať v reálnom čase, pričom každá zosníma
 databázu kradnutých automobilov. „Keď aplikácia zaregistruje ukradnuté vozidlo, rozbliká sa červenou farbou 
 ešpézetka na znak toho, že vozidlo s danou značkou je ukradnuté.“
 ----
-Vývoj aplikácie je už v pokročilej fáze, systém rozpoznávania značiek už je pripravený.
- „Teraz riešime, aby sa aplikácia online prepájala s databázou, kde sú uložené ukradnuté vozidlá.
- Tieto databázy má Ministerstvo vnútra Slovenskej republiky,“ popisuje Farkaš. 
+„Teraz riešime, aby sa aplikácia online prepájala s databázou, kde sú uložené ukradnuté vozidlá. 
+Tieto databázy má Ministerstvo vnútra Slovenskej republiky,“ popisuje Farkaš. Aplikácia bude dostupná zadarmo, 
+uvedená by mala byť o dva až tri mesiace. 
