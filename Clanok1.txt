@@ -9,3 +9,7 @@ Volá sa Hakatron a jej hlavnou funkciou má byť automatické rozoznávanie evi
 Snímanie a overovanie má prebiehať v reálnom čase, pričom každá zosnímaná značka bude online preverená cez 
  MySQL databázu kradnutých automobilov: „Keď aplikácia zaregistruje ukradnuté vozidlo, rozbliká sa červenou 
  farbou ŠPZ na znak toho, že vozidlo s danou značkou je s najväčšou pravdepodobnosťou ukradnuté.“
+----
+„Teraz riešime, aby sa aplikácia online prepájala s databázou, kde sú uložené ukradnuté vozidlá. 
+Tieto databázy má Ministerstvo vnútra Slovenskej republiky,“ popisuje Farkaš. Aplikácia bude dostupná zadarmo, 
+uvedená by mala byť o dva až tri mesiace. 
